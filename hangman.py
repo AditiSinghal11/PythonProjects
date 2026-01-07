@@ -53,7 +53,7 @@ lives=6
 print("Welcome to hangman")
 print(HANGMANPICS[0])
 print("You have 6 lives")
-list =["extraction"]
+list =["goodfellas"]
 word=random.choice(list)
 
 word_length =len(word)
